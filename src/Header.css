@@ -1,0 +1,79 @@
+.header {
+    height: 65px;
+    display: flex;
+    align-items: center;
+    background-color: #FFD72E;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header_logo{
+    width: 120px;
+    object-fit: contain;
+    margin-left: 25px;
+    display:flex;
+    position: absolute;
+    left: 10px;
+}
+.logo {
+    margin-top: 3px;
+}
+.logo_Name {
+    flex-direction:row;
+    font-size: 20px;
+    font-weight: 800;
+}
+.category_expense{
+    display:flex;
+    flex-direction: row;
+    margin-top: 15px;
+    position: absolute;
+    right: 120px;
+}
+.category_Button{
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.5em;
+    text-decoration:none;
+    font-weight:650;
+    color: white;
+    background-color:#97CC41;
+    text-align:center;
+    transition: all 0.2s;
+    height: 35px;
+}
+.category_Button:hover{
+    background-color: #aeda67;
+}
+
+.expense_Button{
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.5em;
+    text-decoration:none;
+    font-weight:650;
+    color: white;
+    background-color:#eb7344;
+    text-align:center;
+    transition: all 0.2s;
+    height: 35px;
+}
+.expense_Button:hover{
+    background-color: #e9865e;
+}
+
+.login {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    right: 20px;
+}
+.login_text {
+    margin-right: 5px;
+    font-weight: 600;
+    font-size: 15px;
+}

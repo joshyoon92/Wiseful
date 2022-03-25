@@ -1,0 +1,57 @@
+.category {
+    display: grid;
+    align-items:center;
+    margin: 35px 55px 30px 55px;
+    gap: 1rem;
+    align-items:flex-start;
+    z-index: 100;
+}
+.card{
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 5px;
+    contain: content;
+}
+.card_title {
+    display: flex;
+    justify-content:space-between;
+    margin: 15px 15px 15px 15px;
+    align-items: baseline;
+    font-weight: normal;
+    margin-bottom: 3px;
+
+}
+.title {
+    font-size: 27px;
+    font-weight: 500;
+}
+.number {
+    display: flex;
+    align-items: baseline;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+
+}
+.mute_number {
+    color: rgb(78, 78, 78);
+    font-size: 22px;
+    margin-inline-start: 5px;
+}
+
+.progress_bar {
+    margin: 15px 15px 15px 15px;
+}
+
+.add_View {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 15px 15px 15px;
+    float: right;
+}   
+.addExpense_button {
+    margin-right: 10px;
+}
+.expense {
+    margin-left: 20px;
+    Font-size: 15px;
+}

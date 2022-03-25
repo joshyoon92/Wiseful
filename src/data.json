@@ -1,0 +1,19 @@
+[
+    {"id":256,"profile_id":17,"date":"2022-02-13","merchant_name":"KFC","amount":"500","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":254,"profile_id":17,"date":"2022-02-14","merchant_name":"Tectra Inc","amount":"500","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":252,"profile_id":17,"date":"2022-02-19","merchant_name":"United Airlines","amount":"500","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":253,"profile_id":17,"date":"2022-02-17","merchant_name":"Uber","amount":"6.33","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":255,"profile_id":17,"date":"2022-02-13","merchant_name":"AUTOMATIC PAYMENT - THANK","amount":"2078.5","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":257,"profile_id":17,"date":"2022-02-13","merchant_name":"Madison Bicycle Shop","amount":"500","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":258,"profile_id":17,"date":"2022-02-04","merchant_name":"CREDIT CARD 3333 PAYMENT *//","amount":"25","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":259,"profile_id":17,"date":"2022-02-04","merchant_name":"Uber","amount":"5.4","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":251,"profile_id":17,"date":"2022-03-01","merchant_name":"INTRST PYMNT","amount":"-4.22","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":260,"profile_id":17,"date":"2022-02-03","merchant_name":"ACH Electronic CreditGUSTO PAY 123456","amount":"5850","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":261,"profile_id":17,"date":"2022-02-03","merchant_name":"CD DEPOSIT .INITIAL.","amount":"1000","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":263,"profile_id":17,"date":"2022-02-02","merchant_name":"United Airlines","amount":"-500","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":264,"profile_id":17,"date":"2022-02-01","merchant_name":"McDonald's","amount":"12","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":265,"profile_id":17,"date":"2022-02-01","merchant_name":"Starbucks","amount":"4.33","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":266,"profile_id":17,"date":"2022-01-31","merchant_name":"Sparkfun","amount":"89.4","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":267,"profile_id":17,"date":"2022-01-30","merchant_name":"INTRST PYMNT","amount":"-4.22","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}, 
+    {"id":262,"profile_id":17,"date":"2022-02-02","merchant_name":"Touchstone","amount":"78.5","created_at":"2022-03-01T00:56:56.574425+00:00","updated_at":"2022-03-01T00:56:56.574425+00:00"}
+]
